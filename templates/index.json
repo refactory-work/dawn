@@ -57,7 +57,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured products",
-        "collection": "all-item",
+        "collection": "all",
         "image_ratio": "square"
       }
     },

@@ -29,7 +29,7 @@
     "featured-products": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all-item",
+        "collection": "all",
         "image_ratio": "square"
       }
     }
